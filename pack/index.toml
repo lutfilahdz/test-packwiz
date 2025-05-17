@@ -594,8 +594,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
-
-[[files]]
-file = "resourcepacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
-hash = "dda43ffcdedc2cdf670b795e69c6ade4bd793225a2ff320e4b42caa672d2cfff"
-metafile = true
