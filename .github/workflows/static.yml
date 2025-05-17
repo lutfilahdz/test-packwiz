@@ -29,10 +29,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: import main
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: main
       - name: import main - clean
         run: rm -rf cdn/main/.git
       - name: Setup Pages
@@ -41,7 +39,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'pack'
+          path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
