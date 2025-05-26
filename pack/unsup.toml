@@ -1,0 +1,25 @@
+[flavor_groups.rendering_mod]
+name = "Rendering Mod"
+description = "Which rendering mod you'd like to use.\nIncreases or decreases performance depending on choices."
+side = "client"
+[[flavor_groups.rendering_mod.choices]]
+id = "no_rendering_mods"
+name = "None"
+description = "No rendering mods."
+[[flavor_groups.rendering_mod.choices]]
+id = "sodium"
+name = "Sodium"
+description = "Installs Sodium and Indium, greatly increasing performance."
+[[flavor_groups.rendering_mod.choices]]
+id = "iris"
+name = "Iris"
+description = "Installs Sodium, Indium, and Iris, increasing performance and providing support for OptiFine shaderpacks."
+[[flavor_groups.rendering_mod.choices]]
+id = "canvas"
+name = "Canvas"
+description = "Installs Canvas, providing support for Canvas shaderpacks."
+
+[flavor_groups.hard_mode]
+name = "Hard Mode"
+side = "both"
+choices = ["hard_mode_off", "hard_mode_on"]
