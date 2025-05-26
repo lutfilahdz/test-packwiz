@@ -23,3 +23,12 @@ description = "Installs Canvas, providing support for Canvas shaderpacks."
 name = "Hard Mode"
 side = "both"
 choices = ["hard_mode_off", "hard_mode_on"]
+
+[metafile.sodium]
+flavors = ["iris", "sodium"]
+[metafile.indium]
+flavors = ["iris", "sodium"]
+[metafile.iris]
+flavors = "iris"
+[metafile.canvas]
+flavors = "canvas"
