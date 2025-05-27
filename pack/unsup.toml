@@ -1,6 +1,6 @@
 [flavor_groups.version]
 name = "Mod Package"
-description = "Choose the mod package that best suits your needs in Sekai Survival.\nEach package is designed to enhance your gaming experience with different levels of optimization and features.\n\n"
+description = "Choose the mod package that best suits your needs in Sekai Survival.\nEach package is designed to enhance your gaming experience with different levels of optimization and features."
 side = "both"
 [[flavor_groups.version.choices]]
 id = "complete_package"
@@ -17,15 +17,21 @@ description = "Basic essential mods required for server compatibility.\nIdeal fo
 
 [flavor_groups.sodium]
 name = "Sodium"
-description = "Choose whether to use Sodium, a high-performance rendering engine that significantly improves FPS."
+description = "Choose whether to use Sodium and its addon mods. Sodium is a modern rendering engine that greatly improves performance with better FPS, reduced stuttering, and enhanced graphics options."
 side = "client"
 choices = ["sodium_off", "sodium_on"]
 
 [flavor_groups.iris]
 name = "Iris Shaders"
-description = "Choose whether to use Iris Shaders, a mod that allows you to use OptiFine shaders with Sodium for enhanced visual effects."
+description = "Choose whether to use Iris Shaders, a mod that allows you to use shaders for enhanced visual effects."
 side = "client"
 choices = ["iris_off", "iris_on"]
+
+[flavor_groups.xaero]
+name = "Xaero's Maps"
+description = "Choose whether to use Xaero's Minimap and World Map, providing detailed navigation and map features for better exploration."
+side = "client"
+choices = ["xaero_off", "xaero_on"]
 
 [flavor_groups.distant_horizons]
 name = "Distant Horizons"
