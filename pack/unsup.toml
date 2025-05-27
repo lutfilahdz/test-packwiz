@@ -27,6 +27,11 @@ description = "Choose whether to enable Distant Horizons, a mod that renders dis
 side = "client"
 choices = ["distant_horizons_off", "distant_horizons_on"]
 
+[flavor_groups.hard_mode]
+name = "Hard Mode"
+side = "both"
+choices = ["hard_mode_off", "hard_mode_on"]
+
 [metafile.sodium]
 flavors = ["sodium_on"]
 [metafile.indium]
