@@ -21,6 +21,12 @@ description = "Choose whether to use Sodium, a high-performance rendering engine
 side = "client"
 choices = ["sodium_off", "sodium_on"]
 
+[flavor_groups.iris]
+name = "Iris Shaders"
+description = "Choose whether to use Iris Shaders, a mod that allows you to use OptiFine shaders with Sodium for enhanced visual effects."
+side = "client"
+choices = ["iris_off", "iris_on"]
+
 [flavor_groups.distant_horizons]
 name = "Distant Horizons"
 description = "Choose whether to enable Distant Horizons, a mod that renders distant terrain for better view distances with minimal performance impact."
