@@ -29,7 +29,7 @@ name = "Sodium Only"
 description = "Performance optimization with Sodium and additional features like improved graphics settings and visual tweaks."
 [[flavor_groups.rendering.choices]]
 id = "rendering_iris"
-name = "Sodium + Iris Shaders"
+name = "Sodium + Iris"
 description = "Full performance optimization suite with Sodium and its addons, plus shader support through Iris for enhanced visual effects"
 
 [flavor_groups.xaero]
