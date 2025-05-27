@@ -50,9 +50,11 @@ flavors = ["rendering_iris", "rendering_sodium"]
 flavors = ["rendering_iris", "rendering_sodium"]
 [metafile.iris]
 flavors = "rendering_iris"
+
 [metafile.xaeros-minimap]
 flavors = "xaero_on"
 [metafile.xaeros-world-map]
 flavors = "xaero_on"
+
 [metafile.distanthorizons]
 flavors = "distant_horizons_on"
