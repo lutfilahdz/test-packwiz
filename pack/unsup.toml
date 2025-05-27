@@ -15,22 +15,22 @@ id = "basic_package"
 name = "Basic"
 description = "Basic essential mods required for server compatibility.\nIdeal for players who already have their own additional mods."
 
-[flavor_groups.sodium]
-name = "Sodium and Iris"
+[flavor_groups.rendering]
+name = "Rendering"
 description = "Choose your rendering setup. Sodium is a modern rendering engine that greatly improves performance. Iris allows you to use shaders for enhanced visual effects."
 side = "client"
-[[flavor_groups.sodium.choices]]
-id = "sodium_off"
+[[flavor_groups.rendering.choices]]
+id = "rendering_off"
 name = "None"
 description = "No rendering enhancements"
-[[flavor_groups.sodium.choices]]
-id = "sodium_on"
+[[flavor_groups.rendering.choices]]
+id = "rendering_sodium"
 name = "Sodium Only"
-description = "Performance optimization with Sodium"
-[[flavor_groups.sodium.choices]]
-id = "iris_on"
-name = "Sodium + Iris"
-description = "Performance optimization with Sodium and shader support with Iris"
+description = "Performance optimization with Sodium and additional features like improved graphics settings and visual tweaks."
+[[flavor_groups.rendering.choices]]
+id = "rendering_iris"
+name = "Sodium + Iris Shaders"
+description = "Full performance optimization suite with Sodium and its addons, plus shader support through Iris for enhanced visual effects"
 
 [flavor_groups.xaero]
 name = "Xaero's Maps"
