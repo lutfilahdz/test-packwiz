@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
-metafile = true
-
-[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "022933f7c0f9b55861bdf8b60e70a3978947b659b4624b4cd301a4190dd15a47"
 metafile = true
@@ -23,4 +18,9 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
+metafile = true
+
+[[files]]
+file = "world/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
 metafile = true
