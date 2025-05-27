@@ -17,11 +17,13 @@ description = "Basic essential mods for server compatibility. Perfect for joinin
 
 [flavor_groups.sodium]
 name = "Sodium"
+description = "Choose whether to use Sodium, a high-performance rendering engine that significantly improves FPS."
 side = "client"
 choices = ["sodium_off", "sodium_on"]
 
 [flavor_groups.distant_horizons]
 name = "Distant Horizons"
+description = "Choose whether to enable Distant Horizons, a mod that renders distant terrain for better view distances with minimal performance impact"
 side = "client"
 choices = ["distant_horizons_off", "distant_horizons_on"]
 
