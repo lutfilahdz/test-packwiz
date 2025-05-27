@@ -3,3 +3,6 @@
 
 # Exclude all .zip files
 /*.zip
+
+# Exclude unsup files
+unsup.toml
