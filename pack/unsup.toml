@@ -1,19 +1,19 @@
 [flavor_groups.version]
 name = "Mod Package"
-description = "Choose which mod package suits your needs for playing Sekai Survival"
+description = "Choose the mod package that best suits your needs in Sekai Survival"
 side = "both"
 [[flavor_groups.version.choices]]
 id = "complete_package"
 name = "Complete"
-description = "All features included! Contains optimization mods for better performance plus quality of life mods like map (Xaero), item search (JEI), block info (Jade), zoom, and more. Recommended for single player or if server allows these mods."
+description = "Complete package with optimization and additional quality of life features for the best gaming experience.\nJust install and play without any hassle!"
 [[flavor_groups.version.choices]]
 id = "performance_package"
 name = "Performance"
-description = "Focuses on game performance with mods like Entity Culling, Ferrite Core, and Modern Fix. Perfect balance between features and performance."
+description = "Basic package enhanced with performance-focused mods.\nPerfect for players who don't have their own optimization mods."
 [[flavor_groups.version.choices]]
 id = "basic_package"
 name = "Basic"
-description = "Basic essential mods for server compatibility. Perfect for joining servers that require minimal mods. Most lightweight option."
+description = "Basic essential mods required for server compatibility.\nIdeal for players who already have their own additional mods."
 
 [flavor_groups.sodium]
 name = "Sodium"
@@ -23,7 +23,7 @@ choices = ["sodium_off", "sodium_on"]
 
 [flavor_groups.distant_horizons]
 name = "Distant Horizons"
-description = "Choose whether to enable Distant Horizons, a mod that renders distant terrain for better view distances with minimal performance impact"
+description = "Choose whether to enable Distant Horizons, a mod that renders distant terrain for better view distances with minimal performance impact."
 side = "client"
 choices = ["distant_horizons_off", "distant_horizons_on"]
 
