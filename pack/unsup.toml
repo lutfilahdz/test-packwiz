@@ -1,6 +1,6 @@
 [flavor_groups.version]
 name = "Mod Package"
-description = "Choose the mod package that best suits your needs in Sekai Survival.\nEach package is designed to enhance your gaming experience with different levels of optimization and features.\n"
+description = "Choose the mod package that best suits your needs in Sekai Survival.\nEach package is designed to enhance your gaming experience with different levels of optimization and features.\n\n"
 side = "both"
 [[flavor_groups.version.choices]]
 id = "complete_package"
