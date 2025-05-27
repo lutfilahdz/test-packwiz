@@ -45,10 +45,12 @@ side = "client"
 choices = ["distant_horizons_off", "distant_horizons_on"]
 
 [metafile.sodium]
-flavors = ["sodium_on"]
-[metafile.indium]
-flavors = ["iris", "sodium"]
+flavors = ["rendering_iris", "rendering_sodium"]
+[metafile.sodium-extra]
+flavors = ["rendering_iris", "rendering_sodium"]
 [metafile.iris]
-flavors = "iris"
-[metafile.canvas]
-flavors = "canvas"
+flavors = "rendering_iris"
+[metafile.xaeros-minimap]
+flavors = "xaero_on"
+[metafile.xaeros-world-map]
+flavors = "xaero_on"
