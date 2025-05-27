@@ -1,6 +1,6 @@
 name = "Repurposed Structures - Farmer's Delight Compat"
 filename = "Repurposed_Structures-Farmers_Delight_v6.zip"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/P5wB88AS/versions/DSuBmePz/Repurposed_Structures-Farmers_Delight_v6.zip"
