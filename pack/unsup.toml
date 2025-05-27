@@ -33,18 +33,6 @@ flavors = "iris"
 [metafile.canvas]
 flavors = "canvas"
 
-[flavor_groups.version]
-name = "Mod Version"
-description = "Which rendering mod you'd like to use.\nIncreases or decreases performance depending on choices."
-side = "client"
-[[flavor_groups.version.choices]]
-id = "full_version"
-name = "Full"
-description = "No rendering mods."
-[[flavor_groups.version.choices]]
-id = "optimized_version"
-name = "Optimized"
-
 [flavor_groups.flavor]
 name = "Flavor"
 description = "How do you want to play Rewind Upsilon?"
@@ -125,3 +113,20 @@ flavors = "music_upsilon"
 
 [metafile.dartcraft-zs]
 flavors = "dartcraft_on"
+
+[flavor_groups.version]
+name = "Mod Package"
+description = "Choose which mod package suits your needs for playing Sekai Survival"
+side = "both"
+[[flavor_groups.version.choices]]
+id = "full_version"
+name = "Complete Experience"
+description = "All features included! Contains optimization mods for better performance plus quality of life mods like map (Xaero), item search (JEI), block info (Jade), zoom, and more. Recommended for single player or if server allows these mods."
+[[flavor_groups.version.choices]]
+id = "optimized_version"
+name = "Performance Enhanced"
+description = "Focuses on game performance with mods like Entity Culling, Ferrite Core, and Modern Fix. Perfect balance between features and performance."
+[[flavor_groups.version.choices]]
+id = "standard_version"
+name = "Basic Compatibility"
+description = "Basic essential mods for server compatibility. Perfect for joining servers that require minimal mods. Most lightweight option."
