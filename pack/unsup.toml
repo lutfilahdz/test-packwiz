@@ -54,3 +54,5 @@ flavors = "rendering_iris"
 flavors = "xaero_on"
 [metafile.xaeros-world-map]
 flavors = "xaero_on"
+[metafile.distanthorizons]
+flavors = "distant_horizons_on"
