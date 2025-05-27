@@ -120,13 +120,13 @@ description = "Choose which mod package suits your needs for playing Sekai Survi
 side = "both"
 [[flavor_groups.version.choices]]
 id = "full_version"
-name = "Complete Experience"
+name = "Complete"
 description = "All features included! Contains optimization mods for better performance plus quality of life mods like map (Xaero), item search (JEI), block info (Jade), zoom, and more. Recommended for single player or if server allows these mods."
 [[flavor_groups.version.choices]]
 id = "optimized_version"
-name = "Performance Enhanced"
+name = "Performance"
 description = "Focuses on game performance with mods like Entity Culling, Ferrite Core, and Modern Fix. Perfect balance between features and performance."
 [[flavor_groups.version.choices]]
 id = "standard_version"
-name = "Basic Compatibility"
+name = "Basic"
 description = "Basic essential mods for server compatibility. Perfect for joining servers that require minimal mods. Most lightweight option."
