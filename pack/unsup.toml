@@ -1,17 +1,17 @@
-[flavor_groups.version]
+[flavor_groups.package]
 name = "Mod Package"
 description = "Choose the mod package that best suits your needs in Sekai Survival.\nEach package is designed to enhance your gaming experience with different levels of optimization and features."
 side = "client"
-[[flavor_groups.version.choices]]
-id = "complete_package"
+[[flavor_groups.package.choices]]
+id = "package_complete"
 name = "Complete"
 description = "Complete package with optimization and additional quality of life features for the best gaming experience.\nJust install and play without any hassle!"
-[[flavor_groups.version.choices]]
-id = "performance_package"
+[[flavor_groups.package.choices]]
+id = "package_performance"
 name = "Performance"
 description = "Basic package enhanced with performance-focused mods.\nPerfect for players who don't have their own optimization mods."
-[[flavor_groups.version.choices]]
-id = "basic_package"
+[[flavor_groups.package.choices]]
+id = "package_basic"
 name = "Basic"
 description = "Basic essential mods required for server compatibility.\nIdeal for players who already have their own additional mods."
 
