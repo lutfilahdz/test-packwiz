@@ -171,6 +171,11 @@ hash = "630011e25bd2f05958b2ad715602ac3f6cca0504ee6c793e71828de54e480cbf"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "3082cc5a9a47fb3a74ccda878bbf6cffab6ea48b2c05337c5de589128dfda8e2"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
@@ -301,8 +306,23 @@ hash = "59e693fdad9c69fab13a5770e20e0bcbdf9831053361c04c786932c75a67f312"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
+metafile = true
+
+[[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "8619be4a2d5da2deff6cee6ebda356c1a7fdf3a36d8b58d31cd6ddd5b1649ca1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "1ebb69b573559c219266c3b251d736f45278e3c81a97a74ca3851eb250f55862"
 metafile = true
 
 [[files]]
@@ -426,6 +446,11 @@ hash = "f19eb10d9ef2510cc8e9bf7199efc503717cb6609f31a29a43698f461ae4ff20"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "0e4b66acb56a69961e0324eb902df9f490b8681b3d3f99ac3f96bb1b55ad1ba9"
 metafile = true
@@ -456,6 +481,11 @@ hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "dd4de30039cec802d8cc950b56908c1dff1f989747a7cd545a2e85822939d69c"
 metafile = true
@@ -473,6 +503,21 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "984db2c18b1f6793a40ae7ee3623bc60291a1b87beed450c3653976201da9951"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "bf3a50b4962319fdc9bcdb9b56aa5af1d674a16740c36f5732cb8fe91aafb46f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "dd40dc38d711439fbcefc1d2d739fe5ff0570f5ffae8fff03780c9c8aea95101"
 metafile = true
 
 [[files]]
