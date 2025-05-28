@@ -35,7 +35,7 @@ description = "No rendering enhancements."
 [flavor_groups.xaero]
 name = "Xaero's Maps"
 description = "Choose whether to use Xaero's Minimap and World Map, providing detailed navigation and map features for better exploration."
-side = "client"
+side = "both"
 choices = ["xaero_off", "xaero_on"]
 
 [flavor_groups.distant_horizons]
