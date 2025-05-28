@@ -22,7 +22,7 @@ side = "client"
 [[flavor_groups.rendering.choices]]
 id = "rendering_iris"
 name = "Sodium + Iris"
-description = "Full performance optimization suite with Sodium and its addons, plus shader support through Iris for enhanced visual effects"
+description = "Full performance optimization suite with Sodium and its addons, plus shader support through Iris for enhanced visual effects."
 [[flavor_groups.rendering.choices]]
 id = "rendering_sodium"
 name = "Sodium Only"
@@ -30,7 +30,7 @@ description = "Performance optimization with Sodium and additional features like
 [[flavor_groups.rendering.choices]]
 id = "rendering_off"
 name = "None"
-description = "No rendering enhancements"
+description = "No rendering enhancements."
 
 [flavor_groups.xaero]
 name = "Xaero's Maps"
