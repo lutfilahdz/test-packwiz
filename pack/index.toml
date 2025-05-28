@@ -611,20 +611,20 @@ hash = "73b09f44633ff771edd84a8c5b0d7452958ea59e13a89e707c199509d2be0410"
 
 [[files]]
 file = "world/datapacks/better-villages-bountiful.pw.toml"
-hash = "a0c5a848062b32a0fc863b44802e7303d323684542a4521cdcec7c9ce286f2a0"
+hash = "5c56dbd352a75a406adce0316f8c09eb82128ed285ea3c89fa05b9ba56ab0ef2"
 metafile = true
 
 [[files]]
 file = "world/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
-hash = "ff0080e9294d4a30a494f21a543a94db8de3373288f7823e0cbae1346491068d"
+hash = "988501e1caee238435dd33482ae0c484c3f54ff37cda3ba47f7e5a6280895d0e"
 metafile = true
 
 [[files]]
 file = "world/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
+hash = "2271ae5c97d5579243411cc3269acd76cf78e807ff6f9f00e20440bcae8042db"
 metafile = true
 
 [[files]]
 file = "world/datapacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
-hash = "dda43ffcdedc2cdf670b795e69c6ade4bd793225a2ff320e4b42caa672d2cfff"
+hash = "a24d42c608cc553383cab22dd1952307f12e14d6cdc177c956b5964add9875c8"
 metafile = true
