@@ -286,6 +286,11 @@ hash = "55f92a03df046f1ee4da2100025726e166576d47378932b685c56b9ff3da2a37"
 metafile = true
 
 [[files]]
+file = "mods/herdspanic.pw.toml"
+hash = "a4540dd8807f53182939edae5f114e801097433370a3b11a3c19a5e940d7b6c1"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
 metafile = true
