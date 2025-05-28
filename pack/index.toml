@@ -212,7 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
+hash = "49d9963a64205c1cadf5a7eed5779158059cb1319f67e43a34094c6af3170413"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "e374551967a4fc99edb9fc60ba96845aa0252b4a12236e7591d921c1664f6001"
 metafile = true
 
 [[files]]
