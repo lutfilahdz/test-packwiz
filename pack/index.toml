@@ -1,5 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "servers.dat"
+hash = "56f324c07865236457f3b4afc45620bb9ea35d12a7d75f15b196cad0ec212edc"
+
+[[files]]
 file = "unsup.ini"
 hash = "73b09f44633ff771edd84a8c5b0d7452958ea59e13a89e707c199509d2be0410"
