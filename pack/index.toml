@@ -661,6 +661,16 @@ hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a2f8f9c0410885c429945a8e5142a3b4bbaa63bf147f9b2fdd035113b404344f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9caca4be3884e5a7c22b681fc4b4d123bb7a9648b4d4936f5ce60df8799fa8eb"
+metafile = true
+
+[[files]]
 file = "mods/yes-steve-model.pw.toml"
 hash = "2b403560c62912e9dbc2b6dd9d8b941b15be5a1ffc55b883f49099efc04ec83a"
 metafile = true
