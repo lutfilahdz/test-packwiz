@@ -44,6 +44,92 @@ description = "Choose whether to enable Distant Horizons, a mod that renders dis
 side = "both"
 choices = ["distant_horizons_off", "distant_horizons_on"]
 
+[metafile.continuity]
+flavors = "package_complete"
+[metafile.entitytexturefeatures]
+flavors = "package_complete"
+[metafile.entity-model-features]
+flavors = "package_complete"
+[metafile.animatica]
+flavors = "package_complete"
+[metafile.cit-resewn]
+flavors = "package_complete"
+[metafile.sound-physics-remastered]
+flavors = "package_complete"
+[metafile.ambientsounds]
+flavors = "package_complete"
+[metafile.immersivethunder]
+flavors = "package_complete"
+[metafile.presence-footsteps]
+flavors = "package_complete"
+[metafile.dripsounds]
+flavors = "package_complete"
+[metafile.jei]
+flavors = "package_complete"
+[metafile.justenoughbreeding]
+flavors = "package_complete"
+[metafile.just-enough-professions-jep]
+flavors = "package_complete"
+[metafile.just-enough-effect-descriptions-jeed]
+flavors = "package_complete"
+[metafile.just-enough-beacons-reforged]
+flavors = "package_complete"
+[metafile.mouse-tweaks]
+flavors = "package_complete"
+[metafile.better-third-person]
+flavors = "package_complete"
+[metafile.cameraoverhaul]
+flavors = "package_complete"
+[metafile.morechathistory]
+flavors = "package_complete"
+[metafile.modelfix]
+flavors = "package_complete"
+[metafile.lambdynamiclights]
+flavors = "package_complete"
+[metafile.zoomify]
+flavors = "package_complete"
+[metafile.jade]
+flavors = "package_complete"
+[metafile.jade-addons-fabric]
+flavors = "package_complete"
+[metafile.appleskin]
+flavors = "package_complete"
+[metafile.shulkerboxtooltip]
+flavors = "package_complete"
+[metafile.better-mount-hud]
+flavors = "package_complete"
+[metafile.enhanced-attack-indicator]
+flavors = "package_complete"
+[metafile.enchantment-descriptions]
+flavors = "package_complete"
+[metafile.pick-up-notifier]
+flavors = "package_complete"
+[metafile.item-highlighter]
+flavors = "package_complete"
+[metafile.item-borders]
+flavors = "package_complete"
+[metafile.stendhal]
+flavors = "package_complete"
+[metafile.boat-item-view]
+flavors = "package_complete"
+[metafile.better-ping-display-fabric]
+flavors = "package_complete"
+[metafile.durability-tooltip]
+flavors = "package_complete"
+[metafile.held-item-info]
+flavors = "package_complete"
+[metafile.better-f1-reborn]
+flavors = "package_complete"
+[metafile.tiny-item-animations]
+flavors = "package_complete"
+[metafile.smooth-scroll]
+flavors = "package_complete"
+[metafile.smooth-swapping]
+flavors = "package_complete"
+[metafile.craftpresence]
+flavors = "package_complete"
+[metafile.eating-animation]
+flavors = "package_complete"
 [metafile.lithium]
 flavors = ["package_complete", "package_performance"]
 [metafile.ferrite-core]
