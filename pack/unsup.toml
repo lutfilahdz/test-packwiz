@@ -41,7 +41,7 @@ choices = ["xaero_off", "xaero_on"]
 [flavor_groups.distant_horizons]
 name = "Distant Horizons"
 description = "Choose whether to enable Distant Horizons, a mod that renders distant terrain for better view distances with minimal performance impact."
-side = "client"
+side = "both"
 choices = ["distant_horizons_off", "distant_horizons_on"]
 
 [metafile.lithium]
