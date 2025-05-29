@@ -22,7 +22,7 @@ side = "client"
 [[flavor_groups.rendering.choices]]
 id = "rendering_iris"
 name = "Sodium + Iris"
-description = "Full performance optimization suite with Sodium and its addons, plus shader support through Iris for enhanced visual effects."
+description = "Performance optimization with Sodium and its addons, plus shader support through Iris for enhanced visual effects."
 [[flavor_groups.rendering.choices]]
 id = "rendering_sodium"
 name = "Sodium Only"
