@@ -81,6 +81,11 @@ hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "d6878871a07870b33821beed20118368e779c17574062d5d771eb38b9403e875"
 metafile = true
