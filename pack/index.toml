@@ -751,11 +751,6 @@ hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
 
 [[files]]
-file = "mods/server-chat-log-history.pw.toml"
-hash = "afdd99d5e30592e4c6dc2f8a92abc5a9aa7edb0fe5cc4f124a3c0712ba8ec9ed"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "539f2968d3ddc434abc40c12becaea92bea9f9373b27bd7ff75b67938a56a552"
 metafile = true
