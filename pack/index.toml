@@ -236,6 +236,11 @@ hash = "17d4b25e5a1ff7b00589a59f7df4470deb471edb44c5f45b6c8955e6b0c2b58f"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "03f632e9f51e58ce8b8ce7c5b28166e251e1cdbc743f404f65712fd46dd0f251"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "f7a00fedee0f4475b26485b4d533ecc4df9c1224248e6ed44f3160751639e220"
 metafile = true
@@ -468,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
 metafile = true
 
 [[files]]
@@ -778,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "984db2c18b1f6793a40ae7ee3623bc60291a1b87beed450c3653976201da9951"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
 
 [[files]]
