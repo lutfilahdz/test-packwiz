@@ -321,11 +321,6 @@ hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
 metafile = true
 
 [[files]]
-file = "mods/explorations.pw.toml"
-hash = "5689029ab3a995acb714536d28c75616e2088feac4998e8341a904865ea768fa"
-metafile = true
-
-[[files]]
 file = "mods/explorify.pw.toml"
 hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
